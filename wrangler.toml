@@ -1,0 +1,10 @@
+name = "eight-april-learning"
+type = "javascript"
+compatibility_date = "2025-04-07"
+
+[site]
+bucket = "./"
+entry-point = "."
+
+[build]
+command = ""
